@@ -1,9 +1,3 @@
 # fcs-potato
-FreeCodeSchool Git Demo
 
-* Bullet point
-
-🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔🥔
-
-Some more changes!
-
+FreeCodeSchool Indy Git Demo for a live presentation
